@@ -22,15 +22,6 @@ A **Product Management System** developed using **React** for the frontend and *
 - **CRUD Operations**: The system supports the full range of CRUD operations (Create, Read, Update, Delete) for product management.
 - **Backend API**: The Spring Boot backend exposes REST APIs for performing CRUD operations on products.
 
-### How to Use:
-1. **Clone the Repository**: Clone the repository to your local machine.
-2. **Frontend**:
-   - Navigate to the **React** frontend folder and run `npm install` to install dependencies.
-   - Start the development server using `npm start`.
-3. **Backend**:
-   - Navigate to the **Spring Boot** backend folder and use Maven or your preferred method to run the Spring Boot application (`mvn spring-boot:run`).
-4. **Access the App**: Open your browser and go to `http://localhost:3000` to use the application.
-
 ### Future Enhancements:
 - **Product Search**: Add functionality to search for products by name or category.
 - **User Authentication**: Implement authentication for users to manage products securely.
